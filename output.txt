@@ -1,0 +1,736 @@
+Sophia and Noah  have the following similarities: 
+- Computer OS
+
+Sophia and Jackson  have the following similarities: 
+- Computer OS
+
+Sophia and Ava  have the following similarities: 
+- Country
+
+Sophia and Aiden  have the following similarities: 
+- Computer OS
+
+Sophia and Isabella  have the following similarities: 
+- Department
+- Country
+
+Sophia and Mia  have the following similarities: 
+- Computer OS
+
+Sophia and Charlotte  have the following similarities: 
+- Computer OS
+
+Sophia and Harper  have the following similarities: 
+- Last Name
+- Computer OS
+
+Sophia and Amelia  have the following similarities: 
+- Department
+
+Sophia and Oliver  have the following similarities: 
+- Computer OS
+
+Sophia and Abigail  have the following similarities: 
+- Computer OS
+
+Sophia and Logan  have the following similarities: 
+- Country
+
+Sophia and Carter  have the following similarities: 
+- Computer OS
+
+Sophia and Sofia  have the following similarities: 
+- Department
+
+Sophia and Scarlett  have the following similarities: 
+- Computer OS
+
+Sophia and Daniel  have the following similarities: 
+- Computer OS
+
+Sophia and Grace  have the following similarities: 
+- Department
+- Country
+- Computer OS
+
+Liam and Emma  have the following similarities: 
+- Computer OS
+
+Liam and Jackson  have the following similarities: 
+- Country
+
+Liam and Isabella  have the following similarities: 
+- Computer OS
+
+Liam and Lucas  have the following similarities: 
+- Department
+
+Liam and Mia  have the following similarities: 
+- Country
+
+Liam and Caden  have the following similarities: 
+- Computer OS
+
+Liam and Charlotte  have the following similarities: 
+- Country
+
+Liam and Elijah  have the following similarities: 
+- Last Name
+
+Liam and Ethan  have the following similarities: 
+- Computer OS
+
+Liam and Oliver  have the following similarities: 
+- Department
+
+Liam and Evelyn  have the following similarities: 
+- Computer OS
+
+Liam and Logan  have the following similarities: 
+- Computer OS
+
+Liam and Sofia  have the following similarities: 
+- Computer OS
+
+Liam and Henry  have the following similarities: 
+- Department
+
+Liam and Samuel  have the following similarities: 
+- Computer OS
+
+Liam and Lily  have the following similarities: 
+- Country
+- Computer OS
+
+Olivia and Ava  have the following similarities: 
+- Computer OS
+
+Olivia and Lucas  have the following similarities: 
+- Computer OS
+
+Olivia and Mia  have the following similarities: 
+- Department
+
+Olivia and Elijah  have the following similarities: 
+- Computer OS
+
+Olivia and Amelia  have the following similarities: 
+- Computer OS
+
+Olivia and Evelyn  have the following similarities: 
+- Department
+
+Olivia and Mason  have the following similarities: 
+- Computer OS
+
+Olivia and Emily  have the following similarities: 
+- Computer OS
+
+Olivia and Henry  have the following similarities: 
+- Computer OS
+
+Olivia and Scarlett  have the following similarities: 
+- Department
+
+Olivia and Victoria  have the following similarities: 
+- Computer OS
+
+Olivia and Matthew  have the following similarities: 
+- Computer OS
+
+Noah and Jackson  have the following similarities: 
+- Computer OS
+
+Noah and Aiden  have the following similarities: 
+- Computer OS
+
+Noah and Mia  have the following similarities: 
+- Computer OS
+
+Noah and Caden  have the following similarities: 
+- Department
+
+Noah and Charlotte  have the following similarities: 
+- Computer OS
+
+Noah and Harper  have the following similarities: 
+- Computer OS
+
+Noah and Ethan  have the following similarities: 
+- Country
+
+Noah and Oliver  have the following similarities: 
+- Computer OS
+
+Noah and Mason  have the following similarities: 
+- Last Name
+- Department
+
+Noah and Abigail  have the following similarities: 
+- Computer OS
+
+Noah and Carter  have the following similarities: 
+- Computer OS
+
+Noah and Scarlett  have the following similarities: 
+- Country
+- Computer OS
+
+Noah and Samuel  have the following similarities: 
+- Department
+- Country
+
+Noah and Daniel  have the following similarities: 
+- Computer OS
+
+Noah and Matthew  have the following similarities: 
+- Country
+
+Noah and Grace  have the following similarities: 
+- Computer OS
+
+Emma and Isabella  have the following similarities: 
+- Computer OS
+
+Emma and Caden  have the following similarities: 
+- Computer OS
+
+Emma and Charlotte  have the following similarities: 
+- Department
+
+Emma and Ethan  have the following similarities: 
+- Computer OS
+
+Emma and Evelyn  have the following similarities: 
+- Computer OS
+
+Emma and Abigail  have the following similarities: 
+- Department
+
+Emma and Logan  have the following similarities: 
+- Computer OS
+
+Emma and Sofia  have the following similarities: 
+- Computer OS
+
+Emma and Samuel  have the following similarities: 
+- Computer OS
+
+Emma and Victoria  have the following similarities: 
+- Department
+
+Emma and Lily  have the following similarities: 
+- Computer OS
+
+Jackson and Aiden  have the following similarities: 
+- Computer OS
+
+Jackson and Mia  have the following similarities: 
+- Country
+- Computer OS
+
+Jackson and Charlotte  have the following similarities: 
+- Country
+- Computer OS
+
+Jackson and Elijah  have the following similarities: 
+- Department
+
+Jackson and Harper  have the following similarities: 
+- Computer OS
+
+Jackson and Oliver  have the following similarities: 
+- Computer OS
+
+Jackson and Abigail  have the following similarities: 
+- Last Name
+- Computer OS
+
+Jackson and Logan  have the following similarities: 
+- Department
+
+Jackson and Carter  have the following similarities: 
+- Computer OS
+
+Jackson and Scarlett  have the following similarities: 
+- Computer OS
+
+Jackson and Daniel  have the following similarities: 
+- Department
+- Computer OS
+
+Jackson and Lily  have the following similarities: 
+- Country
+
+Jackson and Grace  have the following similarities: 
+- Computer OS
+
+Ava and Isabella  have the following similarities: 
+- Country
+
+Ava and Lucas  have the following similarities: 
+- Computer OS
+
+Ava and Elijah  have the following similarities: 
+- Computer OS
+
+Ava and Harper  have the following similarities: 
+- Department
+
+Ava and Amelia  have the following similarities: 
+- Computer OS
+
+Ava and Mason  have the following similarities: 
+- Computer OS
+
+Ava and Logan  have the following similarities: 
+- Country
+
+Ava and Emily  have the following similarities: 
+- Department
+- Computer OS
+
+Ava and Henry  have the following similarities: 
+- Computer OS
+
+Ava and Victoria  have the following similarities: 
+- Computer OS
+
+Ava and Lily  have the following similarities: 
+- Department
+
+Ava and Matthew  have the following similarities: 
+- Computer OS
+
+Ava and Grace  have the following similarities: 
+- Country
+
+Aiden and Mia  have the following similarities: 
+- Computer OS
+
+Aiden and Caden  have the following similarities: 
+- Last Name
+
+Aiden and Charlotte  have the following similarities: 
+- Computer OS
+
+Aiden and Harper  have the following similarities: 
+- Computer OS
+
+Aiden and Ethan  have the following similarities: 
+- Department
+
+Aiden and Amelia  have the following similarities: 
+- Last Name
+
+Aiden and Oliver  have the following similarities: 
+- Computer OS
+
+Aiden and Abigail  have the following similarities: 
+- Computer OS
+
+Aiden and Carter  have the following similarities: 
+- Department
+- Computer OS
+
+Aiden and Scarlett  have the following similarities: 
+- Computer OS
+
+Aiden and Daniel  have the following similarities: 
+- Computer OS
+
+Aiden and Matthew  have the following similarities: 
+- Department
+
+Aiden and Grace  have the following similarities: 
+- Computer OS
+
+Isabella and Caden  have the following similarities: 
+- Computer OS
+
+Isabella and Ethan  have the following similarities: 
+- Computer OS
+
+Isabella and Amelia  have the following similarities: 
+- Department
+
+Isabella and Evelyn  have the following similarities: 
+- Computer OS
+
+Isabella and Logan  have the following similarities: 
+- Country
+- Computer OS
+
+Isabella and Sofia  have the following similarities: 
+- Department
+- Computer OS
+
+Isabella and Samuel  have the following similarities: 
+- Computer OS
+
+Isabella and Lily  have the following similarities: 
+- Computer OS
+
+Isabella and Grace  have the following similarities: 
+- Department
+- Country
+
+Lucas and Elijah  have the following similarities: 
+- Computer OS
+
+Lucas and Amelia  have the following similarities: 
+- Computer OS
+
+Lucas and Oliver  have the following similarities: 
+- Last Name
+- Department
+
+Lucas and Mason  have the following similarities: 
+- Computer OS
+
+Lucas and Emily  have the following similarities: 
+- Computer OS
+
+Lucas and Henry  have the following similarities: 
+- Department
+- Computer OS
+
+Lucas and Victoria  have the following similarities: 
+- Computer OS
+
+Lucas and Matthew  have the following similarities: 
+- Computer OS
+
+Mia and Charlotte  have the following similarities: 
+- Country
+- Computer OS
+
+Mia and Harper  have the following similarities: 
+- Computer OS
+
+Mia and Oliver  have the following similarities: 
+- Computer OS
+
+Mia and Evelyn  have the following similarities: 
+- Department
+
+Mia and Abigail  have the following similarities: 
+- Computer OS
+
+Mia and Carter  have the following similarities: 
+- Computer OS
+
+Mia and Scarlett  have the following similarities: 
+- Department
+- Computer OS
+
+Mia and Daniel  have the following similarities: 
+- Computer OS
+
+Mia and Lily  have the following similarities: 
+- Country
+
+Mia and Grace  have the following similarities: 
+- Computer OS
+
+Caden and Elijah  have the following similarities: 
+- Country
+
+Caden and Ethan  have the following similarities: 
+- Computer OS
+
+Caden and Amelia  have the following similarities: 
+- Last Name
+
+Caden and Evelyn  have the following similarities: 
+- Computer OS
+
+Caden and Mason  have the following similarities: 
+- Department
+
+Caden and Logan  have the following similarities: 
+- Computer OS
+
+Caden and Sofia  have the following similarities: 
+- Computer OS
+
+Caden and Samuel  have the following similarities: 
+- Department
+- Computer OS
+
+Caden and Lily  have the following similarities: 
+- Computer OS
+
+Charlotte and Harper  have the following similarities: 
+- Computer OS
+
+Charlotte and Oliver  have the following similarities: 
+- Computer OS
+
+Charlotte and Abigail  have the following similarities: 
+- Department
+- Computer OS
+
+Charlotte and Carter  have the following similarities: 
+- Computer OS
+
+Charlotte and Scarlett  have the following similarities: 
+- Computer OS
+
+Charlotte and Victoria  have the following similarities: 
+- Department
+
+Charlotte and Daniel  have the following similarities: 
+- Computer OS
+
+Charlotte and Lily  have the following similarities: 
+- Country
+
+Charlotte and Grace  have the following similarities: 
+- Computer OS
+
+Elijah and Amelia  have the following similarities: 
+- Computer OS
+
+Elijah and Mason  have the following similarities: 
+- Computer OS
+
+Elijah and Logan  have the following similarities: 
+- Department
+
+Elijah and Emily  have the following similarities: 
+- Computer OS
+
+Elijah and Henry  have the following similarities: 
+- Computer OS
+
+Elijah and Victoria  have the following similarities: 
+- Computer OS
+
+Elijah and Daniel  have the following similarities: 
+- Department
+
+Elijah and Matthew  have the following similarities: 
+- Computer OS
+
+Harper and Oliver  have the following similarities: 
+- Computer OS
+
+Harper and Abigail  have the following similarities: 
+- Computer OS
+
+Harper and Emily  have the following similarities: 
+- Department
+
+Harper and Carter  have the following similarities: 
+- Computer OS
+
+Harper and Scarlett  have the following similarities: 
+- Computer OS
+
+Harper and Daniel  have the following similarities: 
+- Computer OS
+
+Harper and Lily  have the following similarities: 
+- Department
+
+Harper and Grace  have the following similarities: 
+- Computer OS
+
+Ethan and Evelyn  have the following similarities: 
+- Computer OS
+
+Ethan and Logan  have the following similarities: 
+- Computer OS
+
+Ethan and Carter  have the following similarities: 
+- Department
+
+Ethan and Sofia  have the following similarities: 
+- Computer OS
+
+Ethan and Scarlett  have the following similarities: 
+- Country
+
+Ethan and Samuel  have the following similarities: 
+- Country
+- Computer OS
+
+Ethan and Lily  have the following similarities: 
+- Computer OS
+
+Ethan and Matthew  have the following similarities: 
+- Department
+- Country
+
+Amelia and Oliver  have the following similarities: 
+- Country
+
+Amelia and Evelyn  have the following similarities: 
+- Country
+
+Amelia and Mason  have the following similarities: 
+- Computer OS
+
+Amelia and Emily  have the following similarities: 
+- Computer OS
+
+Amelia and Sofia  have the following similarities: 
+- Department
+
+Amelia and Henry  have the following similarities: 
+- Computer OS
+
+Amelia and Victoria  have the following similarities: 
+- Computer OS
+
+Amelia and Matthew  have the following similarities: 
+- Computer OS
+
+Amelia and Grace  have the following similarities: 
+- Department
+
+Oliver and Evelyn  have the following similarities: 
+- Country
+
+Oliver and Abigail  have the following similarities: 
+- Computer OS
+
+Oliver and Carter  have the following similarities: 
+- Computer OS
+
+Oliver and Henry  have the following similarities: 
+- Department
+
+Oliver and Scarlett  have the following similarities: 
+- Computer OS
+
+Oliver and Daniel  have the following similarities: 
+- Computer OS
+
+Oliver and Grace  have the following similarities: 
+- Computer OS
+
+Evelyn and Logan  have the following similarities: 
+- Computer OS
+
+Evelyn and Sofia  have the following similarities: 
+- Computer OS
+
+Evelyn and Scarlett  have the following similarities: 
+- Department
+
+Evelyn and Samuel  have the following similarities: 
+- Computer OS
+
+Evelyn and Lily  have the following similarities: 
+- Computer OS
+
+Mason and Emily  have the following similarities: 
+- Computer OS
+
+Mason and Henry  have the following similarities: 
+- Computer OS
+
+Mason and Samuel  have the following similarities: 
+- Department
+
+Mason and Victoria  have the following similarities: 
+- Computer OS
+
+Mason and Matthew  have the following similarities: 
+- Computer OS
+
+Abigail and Carter  have the following similarities: 
+- Computer OS
+
+Abigail and Scarlett  have the following similarities: 
+- Computer OS
+
+Abigail and Victoria  have the following similarities: 
+- Department
+
+Abigail and Daniel  have the following similarities: 
+- Computer OS
+
+Abigail and Grace  have the following similarities: 
+- Computer OS
+
+Logan and Sofia  have the following similarities: 
+- Computer OS
+
+Logan and Samuel  have the following similarities: 
+- Computer OS
+
+Logan and Daniel  have the following similarities: 
+- Department
+
+Logan and Lily  have the following similarities: 
+- Computer OS
+
+Logan and Grace  have the following similarities: 
+- Country
+
+Emily and Henry  have the following similarities: 
+- Computer OS
+
+Emily and Victoria  have the following similarities: 
+- Computer OS
+
+Emily and Lily  have the following similarities: 
+- Department
+
+Emily and Matthew  have the following similarities: 
+- Computer OS
+
+Carter and Scarlett  have the following similarities: 
+- Computer OS
+
+Carter and Daniel  have the following similarities: 
+- Computer OS
+
+Carter and Matthew  have the following similarities: 
+- Department
+
+Carter and Grace  have the following similarities: 
+- Computer OS
+
+Sofia and Samuel  have the following similarities: 
+- Computer OS
+
+Sofia and Lily  have the following similarities: 
+- Computer OS
+
+Sofia and Grace  have the following similarities: 
+- Department
+
+Henry and Victoria  have the following similarities: 
+- Computer OS
+
+Henry and Matthew  have the following similarities: 
+- Computer OS
+
+Scarlett and Samuel  have the following similarities: 
+- Country
+
+Scarlett and Daniel  have the following similarities: 
+- Computer OS
+
+Scarlett and Matthew  have the following similarities: 
+- Country
+
+Scarlett and Grace  have the following similarities: 
+- Computer OS
+
+Samuel and Lily  have the following similarities: 
+- Computer OS
+
+Samuel and Matthew  have the following similarities: 
+- Country
+
+Victoria and Matthew  have the following similarities: 
+- Computer OS
+
+Daniel and Grace  have the following similarities: 
+- Computer OS
+
